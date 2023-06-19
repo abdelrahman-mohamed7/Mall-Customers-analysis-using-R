@@ -1,1 +1,1 @@
-# Mall-Customers-analysis-using-R
+# Mall Customers analysis using R
